@@ -1,2 +1,3 @@
-# SteuerKI Webapp
-Dies ist ein Minimalprojekt zur Steuer-KI.
+# SwissTaxAssistant
+
+Einfache Steuer-KI für die Schweiz. Hochladen → Analyse → Zahlung → Export.
